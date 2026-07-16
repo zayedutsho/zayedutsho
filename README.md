@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" width="100%" />
+<img src="https://chatgpt.com/s/m_6a5910fcde288191b807b6a1dd1e0c07" width="100%" />
 
 # Hi there 👋 I'm MD RIFAT AL JAYED UTSHO
 
@@ -21,7 +21,7 @@ Building scalable, modern web applications with clean architecture and great use
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://zayedutsho.netlify.app">
+<a href="https://zayedutsho.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
