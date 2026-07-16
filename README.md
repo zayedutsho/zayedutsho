@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://chatgpt.com/s/m_6a5910fcde288191b807b6a1dd1e0c07" width="100%" />
+<img src="https://ibb.co.com/GQBktGdD" width="100%" />
 
 # Hi there 👋 I'm MD RIFAT AL JAYED UTSHO
 
