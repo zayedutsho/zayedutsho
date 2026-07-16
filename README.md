@@ -33,25 +33,28 @@ Building scalable, modern web applications with clean architecture and great use
 
 ---
 
-# 💫 About Me
+### 🚀 What I Can Help With
 
-💻 Full Stack Software Engineer from Bangladesh
+- 💻 Custom Web Application Development
+- ⚛️ React & Next.js Development
+- 🖥️ REST API & Backend Development
+- 🗄️ Database Design (MongoDB & PostgreSQL)
+- 🔐 Authentication & Authorization
+- 💳 Payment Gateway Integration (Stripe)
+- ☁️ Deployment & Cloud Hosting
+- 📱 Responsive & Mobile-First Design
+- 🚀 Performance Optimization
+- 🔧 Bug Fixing & Feature Development
+- 🛠️ System Maintenance & Scalability
 
-🚀 Passionate about building scalable applications using modern JavaScript technologies.
+### 🌱 Currently Exploring
 
-🌱 Currently learning
+- 🤖 AI Integration & LLM Applications
+- 🏗️ System Design
+- ⚡ Scalable Backend Architecture
+- ☁️ Cloud & DevOps
 
-- Advanced Next.js
-- PostgreSQL
-- System Design
-- DSA & Problem Solving
-
-💼 Looking for
-
-- Full Stack Developer
-- React Developer
-- Next.js Developer
-- MERN/PERN Stack Engineer
+> **I build complete software solutions—from concept to deployment.**
 
 ---
 
