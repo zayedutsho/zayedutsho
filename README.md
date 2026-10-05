@@ -146,7 +146,7 @@ zayedutsho@gmail.com
 
 🌐 **Portfolio**
 
-https://zayedutsho.netlify.app
+https://al-jayed.vercel.app/
 
 💼 **LinkedIn**
 
